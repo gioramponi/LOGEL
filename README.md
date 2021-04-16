@@ -1,6 +1,7 @@
 # Inverse Reinforcement Learning from a Gradient-based Learner
 
 This repository is the official implementation of Inverse Reinforcement Learning from a Gradient-based Learner.
+The code of LfL is taken from https://github.com/alexis-jacq/Learning_from_a_Learner.
 
 ## Requirements
 
